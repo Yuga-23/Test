@@ -1,9 +1,9 @@
 echo "# Test" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git edi second time
 git branch -M main
-git remote add origin https://github.com/Yuga-23/Test.git
-git push -u origin main
+git Nenu edit chesanu
+git ting ting
 This is Practie file
 
