@@ -3,7 +3,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Yuga-23/Test.git
+git Nenu edit chesanu
 git push -u origin main
 This is Practie file
 
